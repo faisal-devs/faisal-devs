@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/linked%20in-01.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/x.jpg">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/facebook.jpg"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/linked%20in-01.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://i.ibb.co.com/zV0zCWyV/x-logo.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/facebook.jpg"> </p>](https://twitter.com/_mir_hussain_)
 
 <br />
 
