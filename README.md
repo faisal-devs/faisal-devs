@@ -1,15 +1,16 @@
 <a href="https://www.facebook.com/FaisalAhammed00/">
 <img src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/github%20cover%20faisal.png" />
 </a>
+<br/>
 
-📈 CURRENT STATS
+**📈 CURRENT STATS**
 
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=faisal-devs&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=#FFFF00&sideLabels=#009BC7&currStreakNum=FF1CF8&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-📲 REACH ME OUT
+**📲 REACH ME OUT**
 
 <br />
 
@@ -28,7 +29,7 @@
 
 <br />
 
-🖥️ TECHNOLOGIES THAT I KNOW
+**🖥️ TECHNOLOGIES THAT I KNOW**
 
 <br>
 <p align="center">
@@ -53,7 +54,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
-🧭 CURRENT OVERVIEW
+**🧭 CURRENT OVERVIEW**
 
 
 <div align="left"> <a href="https://app.daily.dev/faisalahammed"><img align="right" src="https://i.ibb.co.com/2RGwcjw/326720485-3521258418153006-7613572174582478532-n.png" width="200" alt="faisalahammed"/></a> </div>
