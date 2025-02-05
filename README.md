@@ -55,15 +55,13 @@
 
 ## :eyes: Current overview
 
-<div align="left">
-<a href="https://app.daily.dev/faisalahammed"><img align="right" src="https://i.ibb.co.com/2RGwcjw/326720485-3521258418153006-7613572174582478532-n.png" width="200" alt="faisalahammed"/></a>
-</div>
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+<div align="left"> <a href="https://app.daily.dev/faisalahammed"><img align="right" src="https://i.ibb.co.com/2RGwcjw/326720485-3521258418153006-7613572174582478532-n.png" width="200" alt="faisalahammed"/></a> </div>
+👨‍💻 I’m a MERN Stack Developer focusing on mastering Socket.io and building real-time applications.
+🚀 Exploring MERN Stack technologies and improving my development skills.
+🤝 Always open to collaborating on open-source projects.
+💡 I’m passionate about making web development more accessible for everyone.
+🌟 Fun fact: I enjoy solving puzzles and learning new things every day.
 
 
 <br />
