@@ -60,8 +60,11 @@
 👨‍💻 I’m a MERN Stack Developer focusing on mastering Socket.io and building real-time applications.
 <br/>
 🚀 Exploring MERN Stack technologies and improving my development skills.
+<br/>
 🤝 Always open to collaborating on open-source projects.
+<br/>
 💡 I’m passionate about making web development more accessible for everyone.
+<br/>
 🌟 Fun fact: I enjoy solving puzzles and learning new things every day.
 
 
