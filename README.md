@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/linked%20in-01.png">](https://www.linkedin.com/)[<img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/x-logo.png">](https://www.x.com/)[<img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/facebook.jpg"> </p>](https://www.facebook.com/FaisalAhammed00/)
+[<p align="center"><img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/linked%20in-01.png">](https://www.linkedin.com/in)[<img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/x-logo.png">](https://www.x.com/)[<img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/facebook.jpg"> </p>](https://www.facebook.com/FaisalAhammed00/)
 
 <br />
 
