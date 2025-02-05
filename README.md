@@ -33,18 +33,18 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+<img src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/HTML.png"/>
+<img src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/css.png"/>
+<img src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/tailwind.png"/>
+<img src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/JavaScript.png"/>
+<img src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/react.png"/>
+<img src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/firebase.png"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/node.png"/>
+<img src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/express.png"/>
+<img src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/mongo.png"/>
 </p><br/>
 
 **🧭 CURRENT OVERVIEW**
