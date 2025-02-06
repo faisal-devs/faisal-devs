@@ -66,11 +66,18 @@
 
  <br/>
 
+
  
  **🔍 OVERVIEW OF MY GITHUB PROFILE**
 
 
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisal-devs&theme=github_dark)
+
+
+<br/>
+![Project Showcase](https://github-profile-projects.vercel.app/api/projects?username=faisal-devs&repo=your-repo-name)
+
 
 
 
