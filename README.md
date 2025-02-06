@@ -68,5 +68,8 @@
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisal-devs&theme=github_dark)
 
+![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisal-devs&show_icons=true&theme=react)
+
+
 
 
