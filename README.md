@@ -64,7 +64,11 @@
 
 <br />
 
- 🔍 OVERVIEW OF MY GITHUB PROFILE
+ <br/>
+
+ 
+ **🔍 OVERVIEW OF MY GITHUB PROFILE**
+
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisal-devs&theme=github_dark)
 
