@@ -3,12 +3,17 @@
 </a>
 <br/>
 
-**📈 CURRENT STATS**
+ **🔍 OVERVIEW OF MY GITHUB PROFILE**
 
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=faisal-devs&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=#FFFF00&sideLabels=#009BC7&currStreakNum=FF1CF8&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
+
+
+
+
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisal-devs&theme=github_dark)
+
+
+<br/>
 
 **📲 REACH ME OUT**
 
@@ -71,19 +76,6 @@
 
 
 
-
- 
- **🔍 OVERVIEW OF MY GITHUB PROFILE**
-
-
-
-
-
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisal-devs&theme=github_dark)
-
-
-<br/>
 
 **🩸 Blood Donation Web Application**
 
