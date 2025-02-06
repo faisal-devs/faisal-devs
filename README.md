@@ -64,12 +64,11 @@
 
 <br />
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=faisal-devs&theme=discord)
+ 🔍 OVERVIEW OF MY GITHUB PROFILE
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisal-devs&theme=github_dark)
 
-![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisal-devs&show_icons=true&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com/?user=faisal-devs&theme=react)
+
 
 
 
