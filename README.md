@@ -83,7 +83,7 @@
 
 **🩸 Blood Donation Web Application**
 
-<div align="left"> 
+<div align="right"> 
   <a href="https://blood-donation-69994.web.app/" target="_blank">
     <img align="right" src="https://i.ibb.co.com/JWtSQY4k/screencapture-blood-donation-69994-web-app-2025-02-06-18-08-55.png" width="200" alt="project" style="border: 5px solid black; border-radius: 10px; padding: 5px;"/>
   </a> 
