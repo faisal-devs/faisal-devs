@@ -78,21 +78,11 @@
 <br/>
 
 
-
 <a href="https://blood-donation-69994.web.app/" target="_blank">
   <img src="https://i.ibb.co/JWtSQY4/screencapture-blood-donation-69994-web-app-2025-02-06-18-08-55.png" width="400" alt="Project Thumbnail"/>
 </a>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=for-the-badge)](https://blood-donation-69994.web.app/)
-
-
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=flat&logo=vercel)](https://blood-donation-69994.web.app/)
-
-[![Project Name](https://via.placeholder.com/300x200)](https://blood-donation-69994.web.app/)
-
-### Project Title
-A blood donation platform to help save lives.
-
 
 
 
