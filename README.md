@@ -66,3 +66,6 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=faisal-devs&theme=discord)
 
+![Metrics](https://metrics.lecoq.io/faisal-devs?template=classic)
+
+
