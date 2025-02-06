@@ -64,4 +64,5 @@
 
 <br />
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=faisal-devs&theme=discord)
 
