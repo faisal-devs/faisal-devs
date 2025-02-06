@@ -57,7 +57,7 @@
 
 
 <div align="left"> <a href="https://app.daily.dev/faisalahammed"><img align="right" src="https://i.ibb.co.com/2RGwcjw/326720485-3521258418153006-7613572174582478532-n.png" width="200" alt="faisalahammed"/></a> </div>
-👨‍💻 I’m a MERN Stack Developer focusing on mastering Socket.io and building real-time applications.
+👨‍💻 I’m a Full Stack Developer focusing on mastering Socket.io and building real-time applications.
 <br/>
 🚀 Exploring MERN Stack technologies and improving my development skills.
 <br/>
