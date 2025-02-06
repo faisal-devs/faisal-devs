@@ -109,6 +109,15 @@ Designed with accessibility in mind, the platform ensures that all users, regard
 
 <br />
 
+### 🚀 GitHub Stats  
+
+![Faisal Sir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisal-devs&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-devs&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=faisal-devs&theme=radical)
+
+
 
 
 
