@@ -85,6 +85,7 @@
 
 <br/>
 
+**🩸 Blood Donation Web Application**
 
 <div align="left"> 
   <a href="https://blood-donation-69994.web.app/" target="_blank">
@@ -93,13 +94,15 @@
 </div>
 
 
-Your Blood Donation website is an advanced platform that offers multiple features for donors, volunteers, and admins. Users can easily make blood donation requests, manage donors, access dashboards, and utilize content management and funding systems. The website is fully responsive and designed with a user-friendly interface.
+This is a Blood Donation website that I have created. It is an advanced platform that offers multiple features for donors, volunteers, and admins. Users can easily make blood donation requests, manage donors, access dashboards, and utilize content management and funding systems. The website is fully responsive and designed with a user-friendly interface.
 
 It provides seamless navigation with role-based access control, ensuring that each user has access to the appropriate features. Donors can register, make donations, and track their donation history, while volunteers can assist in various activities such as scheduling and managing blood drives. Admins have full control to manage users, monitor activities, and analyze data from the platform's dashboards.
 
 Additionally, the website incorporates real-time notifications, ensuring that users are always informed about critical updates, donation drives, and upcoming events. With integrated payment systems for donations and a secure login process powered by JWT authentication, the platform prioritizes safety and trust.
 
 Designed with accessibility in mind, the platform ensures that all users, regardless of their device or screen size, can access the website with ease. Whether on mobile, tablet, or desktop, the Blood Donation website remains fully functional and visually appealing.
+
+
 <br/>
 <a href="https://blood-donation-69994.web.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=for-the-badge&logo=vercel" alt="Live Demo" style="width: 200px; height: auto;" />
