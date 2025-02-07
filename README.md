@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=faisal-devs&theme=github_dark&hide_border=true&background=0D1117&stroke=0D1117&fire=009BC7&sideLabels=FFFFFF&currStreakNum=FFFFFF&ring=009BC7&currStreakLabel=FFFFFF&sideNums=FFFFFF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=faisal-devs&theme=github_dark&hide_border=true&background=0D1117&stroke=0D1117&fire=40C463&sideLabels=FFFFFF&currStreakNum=FFFFFF&ring=009BC7&currStreakLabel=FFFFFF&sideNums=FFFFFF" />
 </p>
 
 <p align="center">
