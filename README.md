@@ -116,7 +116,6 @@ Designed with accessibility in mind, the platform ensures that all users, regard
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-devs&layout=compact&theme=radical)
 
 
 
