@@ -25,7 +25,7 @@
 
 
 **📲 REACH ME OUT**
-<div style="display: flex; align-items: center;">
+<div align="center" style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/">
     <img height="75" width="200" src="https://raw.githubusercontent.com/faisal-devs/faisal-devs/main/Img/linked%20in-01.png">
   </a>
