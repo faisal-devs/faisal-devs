@@ -30,13 +30,13 @@
 
 <p align="start">
   <a href="https://www.linkedin.com/">
-    <img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/linked%20in-01.png">
+    <img height="70" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/linked%20in-01.png">
   </a>
   <a href="https://www.x.com/">
-    <img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/x-logo.png">
+    <img height="70" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/x-logo.png">
   </a>
   <a href="https://www.facebook.com/FaisalAhammed00/">
-    <img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/facebook.jpg">
+    <img height="70" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/facebook.jpg">
   </a>
 </p>
 
