@@ -6,15 +6,16 @@
  **🔍 OVERVIEW OF MY GITHUB PROFILE**
 
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=faisal-devs&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisal-devs&theme=github_dark" alt="Profile Summary"/>
 </p>
 
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=faisal-devs&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-devs&layout=compact&theme=radical" style="background-color: black; color: white; padding: 10px; border-radius: 10px;">
