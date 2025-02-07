@@ -14,11 +14,11 @@
 
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=faisal-devs&theme=Fiery=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=009BC7&ring=009BC7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=faisal-devs&theme=react&hide_bordery=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=009BC7&ring=009BC7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-devs&layout=compact&theme=white" style="background-color: black; color: white; padding: 10px; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-devs&layout=compact&theme=Fiery" style="background-color: black; color: white; padding: 10px; border-radius: 10px;">
 </p>
 
 
