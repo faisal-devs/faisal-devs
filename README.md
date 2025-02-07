@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-devs&layout=compact&theme=tokyonight" style="background-color: black; color: white; padding: 10px; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-devs&layout=compact&theme=github_dark" style="background-color: black; color: white; padding: 10px; border-radius: 10px;">
 </p>
 
 
