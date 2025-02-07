@@ -26,17 +26,10 @@
 
 **📲 REACH ME OUT**
 
-<div style="display: flex;  align-items: center;">
-  <a href="https://www.linkedin.com/">
-    <img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/linked%20in-01.png">
-  </a>
-  <a href="https://www.x.com/">
-    <img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/x-logo.png">
-  </a>
-  <a href="https://www.facebook.com/FaisalAhammed00/">
-    <img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/facebook.jpg">
-  </a>
-</div>
+[![LinkedIn](https://raw.githubusercontent.com/faisal-devs/faisal-devs/main/Img/linked%20in-01.png)](https://www.linkedin.com/)
+[![X](https://raw.githubusercontent.com/faisal-devs/faisal-devs/main/Img/x-logo.png)](https://twitter.com/)
+[![Facebook](https://raw.githubusercontent.com/faisal-devs/faisal-devs/main/Img/facebook.jpg)](https://www.facebook.com/FaisalAhammed00/)
+
 
 <br />
 
