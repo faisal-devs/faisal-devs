@@ -28,7 +28,7 @@
 
 <br />
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/">
     <img height="75" src="https://github.com/faisal-devs/faisal-devs/blob/main/Img/linked%20in-01.png">
   </a>
